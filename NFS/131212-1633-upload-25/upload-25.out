@@ -1,0 +1,150 @@
+1386862422164,325,GET: Login (huba),200,OK,Thread Group 1-1,text,true,11533,291
+1386862423124,168,GET: Login (tyll),200,OK,Thread Group 1-2,text,true,11533,103
+1386862424320,173,GET: Login (sojo),200,OK,Thread Group 1-3,text,true,11533,104
+1386862425533,241,GET: Login (raba),200,OK,Thread Group 1-4,text,true,11533,158
+1386862426727,225,GET: Login (cach),200,OK,Thread Group 1-5,text,true,11533,162
+1386862427939,260,GET: Login (guwa),200,OK,Thread Group 1-6,text,true,11533,168
+1386862425782,2767,POST: Login (raba),200,OK,Thread Group 1-4,text,true,319600,745
+1386862426961,1582,POST: Login (cach),200,OK,Thread Group 1-5,text,true,319600,746
+1386862422516,6039,POST: Login (huba),200,OK,Thread Group 1-1,text,true,319598,603
+1386862423300,5265,POST: Login (tyll),200,OK,Thread Group 1-2,text,true,319596,535
+1386862424498,4123,POST: Login (sojo),200,OK,Thread Group 1-3,text,true,319604,756
+1386862428564,499,GET: View assignment (cach),200,OK,Thread Group 1-5,text,true,32300,439
+1386862428630,487,GET: View assignment (sojo),200,OK,Thread Group 1-3,text,true,32306,375
+1386862428570,550,GET: View assignment (huba),200,OK,Thread Group 1-1,text,true,32297,432
+1386862428558,603,GET: View assignment (raba),200,OK,Thread Group 1-4,text,true,32300,544
+1386862428579,641,GET: View assignment (tyll),200,OK,Thread Group 1-2,text,true,32294,524
+1386862429136,298,GET: Login (nilu),200,OK,Thread Group 1-7,text,true,11533,120
+1386862428208,1643,POST: Login (guwa),200,OK,Thread Group 1-6,text,true,319604,805
+1386862429072,843,GET: Show add submission form (cach),200,OK,Thread Group 1-5,text,true,56849,719
+1386862429123,788,GET: Show add submission form (sojo),200,OK,Thread Group 1-3,text,true,56859,668
+1386862429168,747,GET: Show add submission form (raba),200,OK,Thread Group 1-4,text,true,56849,623
+1386862429132,780,GET: Show add submission form (huba),200,OK,Thread Group 1-1,text,true,56844,659
+1386862429228,736,GET: Show add submission form (tyll),200,OK,Thread Group 1-2,text,true,56839,609
+1386862429936,526,POST: Upload file (huba),200,OK,Thread Group 1-1,text,true,8582,516
+1386862429929,532,POST: Upload file (raba),200,OK,Thread Group 1-4,text,true,8582,521
+1386862429929,548,POST: Upload file (cach),200,OK,Thread Group 1-5,text,true,8582,534
+1386862429932,584,POST: Upload file (sojo),200,OK,Thread Group 1-3,text,true,8582,570
+1386862430341,239,GET: Login (calo),200,OK,Thread Group 1-8,text,true,11533,158
+1386862429863,770,GET: View assignment (guwa),200,OK,Thread Group 1-6,text,true,32306,662
+1386862429977,655,POST: Upload file (tyll),200,OK,Thread Group 1-2,text,true,8582,576
+1386862430482,439,POST: Save submission (raba),200,OK,Thread Group 1-4,text,true,58079,326
+1386862430528,448,POST: Save submission (sojo),200,OK,Thread Group 1-3,text,true,58089,330
+1386862430504,473,POST: Save submission (cach),200,OK,Thread Group 1-5,text,true,58079,354
+1386862430674,303,POST: Save submission (tyll),200,OK,Thread Group 1-2,text,true,58069,284
+1386862430472,505,POST: Save submission (huba),200,OK,Thread Group 1-1,text,true,58074,386
+1386862429446,1877,POST: Login (nilu),200,OK,Thread Group 1-7,text,true,319592,1031
+1386862430647,741,GET: Show add submission form (guwa),200,OK,Thread Group 1-6,text,true,56859,612
+1386862431544,248,GET: Login (trca),200,OK,Thread Group 1-9,text,true,11533,151
+1386862431404,391,POST: Upload file (guwa),200,OK,Thread Group 1-6,text,true,8582,293
+1386862431337,507,GET: View assignment (nilu),200,OK,Thread Group 1-7,text,true,32288,373
+1386862431810,256,POST: Save submission (guwa),200,OK,Thread Group 1-6,text,true,58089,242
+1386862430588,1661,POST: Login (calo),200,OK,Thread Group 1-8,text,true,319594,727
+1386862431853,571,GET: Show add submission form (nilu),200,OK,Thread Group 1-7,text,true,56829,450
+1386862432441,587,POST: Upload file (nilu),200,OK,Thread Group 1-7,text,true,8582,288
+1386862432264,941,GET: View assignment (calo),200,OK,Thread Group 1-8,text,true,32291,656
+1386862432748,537,GET: Login (gemo),200,OK,Thread Group 1-10,text,true,11533,305
+1386862433039,416,POST: Save submission (nilu),200,OK,Thread Group 1-7,text,true,58059,292
+1386862431800,2077,POST: Login (trca),200,OK,Thread Group 1-9,text,true,319592,902
+1386862433220,807,GET: Show add submission form (calo),200,OK,Thread Group 1-8,text,true,56834,694
+1386862433946,259,GET: Login (wewe),200,OK,Thread Group 1-11,text,true,11533,157
+1386862433892,422,GET: View assignment (trca),200,OK,Thread Group 1-9,text,true,32290,356
+1386862434044,361,POST: Upload file (calo),200,OK,Thread Group 1-8,text,true,8582,292
+1386862434413,274,POST: Save submission (calo),200,OK,Thread Group 1-8,text,true,58064,262
+1386862433302,1595,POST: Login (gemo),200,OK,Thread Group 1-10,text,true,319604,771
+1386862434322,700,GET: Show add submission form (trca),200,OK,Thread Group 1-9,text,true,56829,562
+1386862434913,416,GET: View assignment (gemo),200,OK,Thread Group 1-10,text,true,32308,355
+1386862435155,223,GET: Login (sest),200,OK,Thread Group 1-12,text,true,11533,155
+1386862435038,387,POST: Upload file (trca),200,OK,Thread Group 1-9,text,true,8582,309
+1386862435436,265,POST: Save submission (trca),200,OK,Thread Group 1-9,text,true,58059,250
+1386862434217,1766,POST: Login (wewe),200,OK,Thread Group 1-11,text,true,319596,849
+1386862435343,771,GET: Show add submission form (gemo),200,OK,Thread Group 1-10,text,true,56853,627
+1386862435998,518,GET: View assignment (wewe),200,OK,Thread Group 1-11,text,true,32296,406
+1386862436124,394,POST: Upload file (gemo),200,OK,Thread Group 1-10,text,true,8579,304
+1386862436360,202,GET: Login (juga),200,OK,Thread Group 1-13,text,true,11533,141
+1386862436538,276,POST: Save submission (gemo),200,OK,Thread Group 1-10,text,true,58080,266
+1386862435393,1675,POST: Login (sest),200,OK,Thread Group 1-12,text,true,319598,833
+1386862436529,740,GET: Show add submission form (wewe),200,OK,Thread Group 1-11,text,true,56833,627
+1386862437083,468,GET: View assignment (sest),200,OK,Thread Group 1-12,text,true,32299,357
+1386862437285,400,POST: Upload file (wewe),200,OK,Thread Group 1-11,text,true,8579,308
+1386862437561,169,GET: Login (raha),200,OK,Thread Group 1-14,text,true,11533,106
+1386862437695,326,POST: Save submission (wewe),200,OK,Thread Group 1-11,text,true,58060,313
+1386862436570,1549,POST: Login (juga),200,OK,Thread Group 1-13,text,true,319596,742
+1386862437562,770,GET: Show add submission form (sest),200,OK,Thread Group 1-12,text,true,56844,648
+1386862438130,491,GET: View assignment (juga),200,OK,Thread Group 1-13,text,true,32296,363
+1386862438354,383,POST: Upload file (sest),200,OK,Thread Group 1-12,text,true,8582,294
+1386862438751,300,POST: Save submission (sest),200,OK,Thread Group 1-12,text,true,58074,286
+1386862438762,331,GET: Login (daha),200,OK,Thread Group 1-15,text,true,11533,268
+1386862438633,671,GET: Show add submission form (juga),200,OK,Thread Group 1-13,text,true,56839,612
+1386862437745,1669,POST: Login (raha),200,OK,Thread Group 1-14,text,true,319606,811
+1386862439314,350,POST: Upload file (juga),200,OK,Thread Group 1-13,text,true,8582,287
+1386862439422,518,GET: View assignment (raha),200,OK,Thread Group 1-14,text,true,32311,358
+1386862439678,345,POST: Save submission (juga),200,OK,Thread Group 1-13,text,true,58069,328
+1386862439971,191,GET: Login (shbe),200,OK,Thread Group 1-16,text,true,11533,127
+1386862439953,461,GET: Show add submission form (raha),200,OK,Thread Group 1-14,text,true,56864,403
+1386862439109,1586,POST: Login (daha),200,OK,Thread Group 1-15,text,true,319596,735
+1386862440422,345,POST: Upload file (raha),200,OK,Thread Group 1-14,text,true,8582,222
+1386862440781,309,POST: Save submission (raha),200,OK,Thread Group 1-14,text,true,58094,294
+1386862440709,426,GET: View assignment (daha),200,OK,Thread Group 1-15,text,true,32296,316
+1386862441171,161,GET: Login (amgr),200,OK,Thread Group 1-17,text,true,11533,113
+1386862440176,1480,POST: Login (shbe),200,OK,Thread Group 1-16,text,true,319596,697
+1386862441150,558,GET: Show add submission form (daha),200,OK,Thread Group 1-15,text,true,56839,444
+1386862441720,288,POST: Upload file (daha),200,OK,Thread Group 1-15,text,true,8582,275
+1386862441665,550,GET: View assignment (shbe),200,OK,Thread Group 1-16,text,true,32296,439
+1386862442022,352,POST: Save submission (daha),200,OK,Thread Group 1-15,text,true,58069,285
+1386862442375,169,GET: Login (maga),200,OK,Thread Group 1-18,text,true,11533,105
+1386862441346,1667,POST: Login (amgr),200,OK,Thread Group 1-17,text,true,319600,714
+1386862442229,784,GET: Show add submission form (shbe),200,OK,Thread Group 1-16,text,true,56839,551
+1386862443021,377,POST: Upload file (shbe),200,OK,Thread Group 1-16,text,true,8582,277
+1386862443021,483,GET: View assignment (amgr),200,OK,Thread Group 1-17,text,true,32302,369
+1386862443405,283,POST: Save submission (shbe),200,OK,Thread Group 1-16,text,true,58069,269
+1386862443576,154,GET: Login (cenu),200,OK,Thread Group 1-19,text,true,11533,87
+1386862442557,1779,POST: Login (maga),200,OK,Thread Group 1-18,text,true,319602,714
+1386862443524,811,GET: Show add submission form (amgr),200,OK,Thread Group 1-17,text,true,56849,518
+1386862444344,677,POST: Upload file (amgr),200,OK,Thread Group 1-17,text,true,8582,500
+1386862444774,348,GET: Login (caph),200,OK,Thread Group 1-20,text,true,11533,162
+1386862444345,856,GET: View assignment (maga),200,OK,Thread Group 1-18,text,true,32305,667
+1386862445034,374,POST: Save submission (amgr),200,OK,Thread Group 1-17,text,true,58079,261
+1386862445209,675,GET: Show add submission form (maga),200,OK,Thread Group 1-18,text,true,56854,563
+1386862443743,2195,POST: Login (cenu),200,OK,Thread Group 1-19,text,true,319600,1377
+1386862445974,220,GET: Login (joch),200,OK,Thread Group 1-21,text,true,11533,162
+1386862445899,319,POST: Upload file (maga),200,OK,Thread Group 1-18,text,true,8582,306
+1386862445953,410,GET: View assignment (cenu),200,OK,Thread Group 1-19,text,true,32302,353
+1386862446226,268,POST: Save submission (maga),200,OK,Thread Group 1-18,text,true,58084,206
+1386862445136,1575,POST: Login (caph),200,OK,Thread Group 1-20,text,true,319600,692
+1386862446375,596,GET: Show add submission form (cenu),200,OK,Thread Group 1-19,text,true,56849,466
+1386862446720,483,GET: View assignment (caph),200,OK,Thread Group 1-20,text,true,32302,355
+1386862446984,301,POST: Upload file (cenu),200,OK,Thread Group 1-19,text,true,8582,289
+1386862447183,291,GET: Login (jade),200,OK,Thread Group 1-22,text,true,11533,179
+1386862447298,458,POST: Save submission (cenu),200,OK,Thread Group 1-19,text,true,58079,328
+1386862447216,591,GET: Show add submission form (caph),200,OK,Thread Group 1-20,text,true,56849,460
+1386862446209,1796,POST: Login (joch),200,OK,Thread Group 1-21,text,true,319606,814
+1386862447823,283,POST: Upload file (caph),200,OK,Thread Group 1-20,text,true,8582,273
+1386862448018,556,GET: View assignment (joch),200,OK,Thread Group 1-21,text,true,32311,422
+1386862448387,234,GET: Login (bola),200,OK,Thread Group 1-23,text,true,11533,160
+1386862448116,510,POST: Save submission (caph),200,OK,Thread Group 1-20,text,true,58079,388
+1386862447488,1462,POST: Login (jade),200,OK,Thread Group 1-22,text,true,319590,578
+1386862448589,597,GET: Show add submission form (joch),200,OK,Thread Group 1-21,text,true,56864,451
+1386862448964,588,GET: View assignment (jade),200,OK,Thread Group 1-22,text,true,32287,518
+1386862449201,406,POST: Upload file (joch),200,OK,Thread Group 1-21,text,true,8582,335
+1386862449590,217,GET: Login (glbl),200,OK,Thread Group 1-24,text,true,11533,126
+1386862449616,293,POST: Save submission (joch),200,OK,Thread Group 1-21,text,true,58094,284
+1386862449564,566,GET: Show add submission form (jade),200,OK,Thread Group 1-22,text,true,56824,486
+1386862448630,1740,POST: Login (bola),200,OK,Thread Group 1-23,text,true,319600,858
+1386862450144,476,POST: Upload file (jade),200,OK,Thread Group 1-22,text,true,8582,282
+1386862450378,544,GET: View assignment (bola),200,OK,Thread Group 1-23,text,true,32302,432
+1386862450790,179,GET: Login (masm),200,OK,Thread Group 1-25,text,true,11533,111
+1386862450630,348,POST: Save submission (jade),200,OK,Thread Group 1-22,text,true,58054,331
+1386862449821,1667,POST: Login (glbl),200,OK,Thread Group 1-24,text,true,319596,845
+1386862450936,613,GET: Show add submission form (bola),200,OK,Thread Group 1-23,text,true,56849,484
+1386862451564,366,POST: Upload file (bola),200,OK,Thread Group 1-23,text,true,8582,266
+1386862451496,491,GET: View assignment (glbl),200,OK,Thread Group 1-24,text,true,32296,375
+1386862451942,346,POST: Save submission (bola),200,OK,Thread Group 1-23,text,true,58079,331
+1386862450986,1557,POST: Login (masm),200,OK,Thread Group 1-25,text,true,319602,766
+1386862451998,647,GET: Show add submission form (glbl),200,OK,Thread Group 1-24,text,true,56839,584
+1386862452659,273,POST: Upload file (glbl),200,OK,Thread Group 1-24,text,true,8582,262
+1386862452554,415,GET: View assignment (masm),200,OK,Thread Group 1-25,text,true,32305,354
+1386862452945,302,POST: Save submission (glbl),200,OK,Thread Group 1-24,text,true,58069,288
+1386862452983,588,GET: Show add submission form (masm),200,OK,Thread Group 1-25,text,true,56854,526
+1386862453586,272,POST: Upload file (masm),200,OK,Thread Group 1-25,text,true,8582,261
+1386862453870,277,POST: Save submission (masm),200,OK,Thread Group 1-25,text,true,58084,264
